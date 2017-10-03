@@ -1,6 +1,13 @@
 # chunkwmbar
 Zenbar like chunkwm widget to show current space. 
 
+### Installation: 
+
+* Make sure you have [Übersicht](http://tracesof.net/uebersicht/) installed. 
+* Install [Zenbar](https://github.com/zhaorz/zenbar). 
+* Ensure you have [chunkwm](https://github.com/koekeishiya/chunkwm) installed and running.
+* Download this and place the folder in your widgets directory. 
+
 ### TODO
 
 * Query for the number of spaces, don't assume there are four. 
