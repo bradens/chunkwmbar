@@ -20,7 +20,7 @@ render: (output) ->
 style: """
   -webkit-font-smoothing: antialiased
   color: #eee8d5
-  font: 10px Fira Code Retina
+  font: 12px Fira Code Retina
   left: 5px
   top: 0px
   span
@@ -31,12 +31,11 @@ style: """
     padding: 0
     display: inline-block
     li
-      opacity: .9;
       display: inline-block;
       height: 20px;
       width: 20px;
       text-align: center;
       line-height: 20px;
     li.active
-      background: rgba(#0A84FF, .5);
+      color: #0A84FF;
 """
