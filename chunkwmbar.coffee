@@ -21,7 +21,7 @@ style: """
   -webkit-font-smoothing: antialiased
   color: #eee8d5
   font: 12px Fira Code Retina
-  left: 5px
+  left: 20px
   top: 0px
   span
     color: #aaa
